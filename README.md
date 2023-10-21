@@ -10,4 +10,4 @@ Este sistema se compone de dos partes:
 
 2. Frontend: se encarga de la interacción del usuario no técnico con el sistema, ya sea para realizar la traducción de señas a texto y/o voz, o para registrar nuevas señas en el sistema. Esta es orquestada con el framework de [Angular](https://angular.io/) para la creación de una aplicación web.
 
-El proyecto tiene por objetivo ser un aplicativo totalmente funcional y utilizable en casos cotidianos de interacción con comunidades que hagan uso de LSB, pero el proyecto al ser un entregable de trabajo de tesis universitaria se encuentra en **estado alpha** y para lograr el obetivo de sistema productivo estable se requiere la [contribución](#contribuciones) de parte de la comunidad de desarrolladores para la implementación de nuevas funcionalidades y la corrección de errores, usando estandares de calidad y buenas prácticas de desarrollo. [Más Información](#contribuciones).
+
