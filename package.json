@@ -1,0 +1,44 @@
+{
+  "name": "reconocimiento-lsb-lengua-senas-boliviana",
+  "version": "1.2.3",
+  "description": "... TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "husky install",
+    "release": "standard-version",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major"
+  },
+  "repository": {
+    "type": "git",
+    "url":" "
+  },
+
+  "homepage": " ",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.3",
+    "@commitlint/config-conventional": "^17.0.3",
+    "@types/jasmine": "^5.1.0",
+    "@types/jest": "^29.5.5",
+    "@types/mocha": "^10.0.2",
+    "husky": "^8.0.1",
+    "standard-version": "^9.5.0"
+  },
+  "dependencies": {
+    "@angular/common": "^16.2.8",
+    "@angular/core": "^16.2.8",
+    "@angular/forms": "^16.2.8",
+    "@angular/platform-browser-dynamic": "^16.2.8",
+    "@angular/router": "^16.2.8",
+    "@mediapipe/camera_utils": "^0.3.1675466862",
+    "@mediapipe/drawing_utils": "^0.3.1675466124",
+    "@mediapipe/holistic": "^0.5.1675471629",
+    "@types/gsap": "^3.0.0",
+    "angular-fusioncharts": "^4.0.3",
+    "fusioncharts": "^3.21.1",
+    "gsap": "^3.12.2",
+    "sweetalert2": "^11.7.32"
+  }
+}

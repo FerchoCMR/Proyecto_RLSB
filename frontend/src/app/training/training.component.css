@@ -1,0 +1,9 @@
+.countdown {
+	/* Center the timer */
+	text-align: center;
+	font-size: 3rem;
+	font-weight: 300;
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+}

@@ -1,0 +1,43 @@
+{
+    "types": [
+        {
+            "type": "feat",
+            "section": "Features"
+        },
+        {
+            "type": "fix",
+            "section": "Bug Fixes"
+        },
+        {
+            "type": "refactor",
+            "hidden": "Refactoring"
+        },
+        {
+            "type": "chore",
+            "hidden": true
+        },
+        {
+            "type": "docs",
+            "hidden": true
+        },
+        {
+            "type": "style",
+            "hidden": true
+        },
+
+        {
+            "type": "perf",
+            "hidden": "Performance"
+        },
+        {
+            "type": "test",
+            "hidden": true
+        }
+    ],
+    "commitUrlFormat": " ",
+    "compareUrlFormat": " ",
+    "issuePrefixes": [
+        "#"
+    ],
+    "issueUrlFormat": " "
+}

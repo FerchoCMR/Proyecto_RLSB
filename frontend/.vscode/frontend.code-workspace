@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.editorAssociations": {
+			"*.svg": "hediet.vscode-drawio-text",
+		},
+		"explorer.excludeGitIgnore": true,
+		"material-icon-theme.files.associations": {
+			"requirements.docker.txt": "Python-misc",
+			"requirements.env.txt": "Python-misc"
+		},
+		"conventionalCommits.scopes": [
+			"front",
+			"back",
+			"neuronal-network",
+			"database",
+			"docker"
+		],
+		// Style
+		"editor.inlineSuggest.enabled": true,
+		"editor.renderWhitespace": "none",
+		"editor.bracketPairColorization.enabled": true,
+	},
+	"extensions": {
+		// For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
+		"recommendations": [
+			"angular.ng-template"
+		]
+	}
+}
